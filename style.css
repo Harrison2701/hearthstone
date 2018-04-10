@@ -1,0 +1,29 @@
+#title{
+    position: relative;
+    left: 49%;
+    color: white
+}
+
+#buttonGo{
+    position:relative;
+    left:50%;
+}
+
+div{
+    margin:15px
+}
+
+#cardName{
+    position:relative;
+    left:47.5%;
+}
+
+.resize{
+    width: auto;
+    height: 200px;
+}
+
+.recolor{
+    color: white
+}
+
